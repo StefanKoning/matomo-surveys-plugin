@@ -1,0 +1,45 @@
+Upside Analytics BV End User License Agreement
+
+This Upside Analytics BV End User License Agreement ("Agreement" or "Upside Analytics EULA") is between you and Upside Analytics BV (KVK 86882597) ("Upside Analytics BV") for the use of the surveys plugin software accompanying this Agreement ("Software"). If you are agreeing to this Agreement not as an individual but on behalf of your company, then "Customer" or "you" means your company, and you are binding your company to this Agreement. Upside Analytics BV may modify this Agreement from time to time, subject to the terms in Section (vii) below.
+
+By installing, accessing, or otherwise using the Software, you agree to be bound by the terms of this Agreement. If you do not agree to the terms of this Agreement, do not install, access or use the Software.
+
+(i) Upside Analytics BV is the licensor of the surveys plugin for Matomo Analytics ("Software").
+
+(ii) Subject to the terms and conditions of this Agreement, Upside Analytics BV grants you a limited, worldwide, non-exclusive, non-transferable and non-sublicensable license to install and use the Software only on hardware systems owned, leased or controlled by you, during the applicable License Term. The term of each Software license ("License Term") will be specified in your Order. Your License Term will end upon any breach of this Agreement.
+
+(iii) Unless otherwise specified in your Order, for each Software license that you purchase, you may install one production instance of the Software in a Matomo Analytics instance owned or operated by you, and accessible via one URL ("Matomo instance"). Additional licenses must be purchased in order to deploy the Software in multiple Matomo instances, including when these multiple Matomo instances are hosted on a single hardware system.
+
+(iv) You may not reverse engineer or disassemble or re-distribute the Software in whole or in part, or create any derivative works from or sublicense any rights in the Software, unless otherwise expressly authorized in writing by Upside Analytics BV.
+
+(v) The Software is protected by copyright and other intellectual property laws and treaties. Upside Analytics BV owns all title, copyright and other intellectual property rights in the Software, and the Software is licensed to you directly by Upside Analytics BV, not sold.
+
+(vi) The Software is provided under an "as is" basis and without any support or maintenance. Nothing in this Agreement shall require Upside Analytics BV to provide you with support or fixes to any bug, failure, mis-performance or other defect in The Software. Upside Analytics BV may provide you, from time to time, according to his sole discretion, with updates of the Software. You hereby warrant to keep the Software up-to-date and install all relevant updates. Upside Analytics BV shall provide any update free of charge.
+
+(vii) The Software is provided "as is", and Upside Analytics BV hereby disclaim all warranties, including but not limited to any implied warranties of title, non-infringement, merchantability or fitness for a particular purpose. Upside Analytics BV shall not be liable or responsible in any way for any losses or damage of any kind, including lost profits or other indirect or consequential damages, relating to your use of or reliance upon the Software.
+
+(viii) This Agreement will terminate automatically if you fail to comply with any of the terms of this Agreement. Upon termination, you must immediately cease all use of the Software and destroy all copies of the Software and its accompanying documentation.
+
+(ix) This Agreement shall be governed by and construed in accordance with the laws of the Netherlands in which Upside Analytics BV is located, without giving effect to its conflict of law provisions.
+
+(x) This Agreement constitutes the entire agreement between you and Upside Analytics BV and supersedes all prior agreements or understandings, whether written or oral, relating to the subject matter of this Agreement.
+
+(xi) We may update or modify this Agreement from time to time. If a revision meaningfully reduces your rights, we will use reasonable efforts to notify you (by, for example, sending an email to the billing or technical contact you designate in the applicable Order). If we modify the Agreement during your License Term or Subscription Term, the modified version will be effective upon your next renewal of a License Term.
+
+
+About Upside Analytics BV
+
+At Upside Analytics BV, we create innovating quality products to grow your business and to maximize your success.
+
+Our software products are built on top of Matomo Analytics: the leading open digital analytics platform used by more than one million websites worldwide. We are experts of the Matomo Analytics platform.
+
+
+Contact
+
+Email: stefan@mistanalytics.nl
+Website: https://github.com/StefanKoning/matomo-surveys-plugin
+
+
+By installing, accessing, or otherwise using the Software, you agree to be bound by the terms of this Agreement. If you do not agree to the terms of this Agreement, do not install, access or use the Software.
+
+Copyright © 2023 Upside Analytics BV. All rights reserved.
