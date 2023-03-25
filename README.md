@@ -1,5 +1,5 @@
 # Matomo Surveys Plugin
-Get instant feedback of your website visitors and retrieve insights.
+Get instant feedback from your website visitors and retrieve insights.
 
 Screenshots may be found here: https://github.com/StefanKoning/matomo-surveys-plugin/tree/main/screenshots
 
