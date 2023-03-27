@@ -5,7 +5,7 @@ Screenshots may be found here: https://github.com/StefanKoning/matomo-surveys-pl
 
 A video with all features (https://youtu.be/3Y5IsmqridA):
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3Y5IsmqridA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Matomo Surveys plugin video](https://img.youtube.com/vi/3Y5IsmqridA/0.jpg)](https://www.youtube.com/watch?v=3Y5IsmqridA)
 
 # Demo
 A demo may be accessed here: https://mistanalytics.nl/area-51/
