@@ -3,7 +3,9 @@ Get instant feedback from your website visitors and retrieve insights.
 
 Screenshots may be found here: https://github.com/StefanKoning/matomo-surveys-plugin/tree/main/screenshots
 
-A video with all features may be found here: https://youtu.be/3Y5IsmqridA
+A video with all features (https://youtu.be/3Y5IsmqridA):
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3Y5IsmqridA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Demo
 A demo may be accessed here: https://mistanalytics.nl/area-51/
