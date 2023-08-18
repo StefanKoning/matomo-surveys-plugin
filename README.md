@@ -10,7 +10,7 @@ A video with all features (https://youtu.be/3Y5IsmqridA):
 # Demo
 A demo may be accessed here: https://mistanalytics.nl/area-51/
 
-For a full demo of all functionalities feel free to schedule a demo here: https://calendly.com/matomosurveys/matomo-surveys-plugin
+For a full demo of all functionalities feel free to schedule a demo here: [https://calendly.com/matomosurveys/matomo-surveys-plugin](https://calendar.app.google/4uafA5YUiYbGM2Hk8)
 
 # Support
 
@@ -18,4 +18,4 @@ Please contact the issues page in case you have suggestions for improvements and
 https://github.com/StefanKoning/matomo-surveys-plugin/issues
 
 # Interested?
-Please get in touch via stefan@mistanalytics.nl or schedule a meeting via https://calendly.com/matomosurveys/matomo-surveys-plugin
+Please get in touch via stefan@mistanalytics.nl or schedule a meeting via [https://calendar.app.google/4uafA5YUiYbGM2Hk8](https://calendar.app.google/4uafA5YUiYbGM2Hk8)https://calendar.app.google/4uafA5YUiYbGM2Hk8
