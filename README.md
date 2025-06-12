@@ -7,8 +7,8 @@ We have developed this plugin as we believe this is missing in Matomo Analytics.
 
 Screenshots may be found here: https://github.com/StefanKoning/matomo-surveys-plugin/tree/main/screenshots
 
-[![Example rating survey](https://github.com/StefanKoning/matomo-surveys-plugin/blob/main/screenshots/Schermafbeelding%202025-05-15%20222525.png)
-[![Example text survey](https://github.com/StefanKoning/matomo-surveys-plugin/blob/main/screenshots/Schermafbeelding%202025-05-15%20222622.png)
+[Example rating survey](https://github.com/StefanKoning/matomo-surveys-plugin/blob/main/screenshots/Schermafbeelding%202025-05-15%20222525.png)
+[Example text survey](https://github.com/StefanKoning/matomo-surveys-plugin/blob/main/screenshots/Schermafbeelding%202025-05-15%20222622.png)
 
 A video with all features (https://youtu.be/3Y5IsmqridA):
 
